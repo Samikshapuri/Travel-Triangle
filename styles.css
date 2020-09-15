@@ -1,0 +1,276 @@
+body {
+  font-family: "Playfair Display";
+  text-align: center;
+}
+
+.Colored-section {
+  background-color: black;
+  color: #fff;
+}
+
+p {
+    font-family: "Playfair Display";
+    color: lightblue;
+    line-height: 2.5;
+    font-weight: bold;
+}
+
+.big-heading {
+  margin: 40px;
+  font-family: "Dancing Script";
+  line-height: 1.5;
+  font-weight: 6;
+}
+
+.navbar {
+    padding: 0 0 3.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu Condensed";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Bebas Neue";
+}
+
+#title {
+  text-align:left;
+  color: white;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.title-image {
+  padding: 20%
+  width: 140%;
+  position: relative;
+  height: 110%;
+}
+
+.heading {
+  padding: 20px;
+  line-height: 2;
+  font-weight: bolder;
+  font-family: "Bebas Neue";
+}
+
+.Places {
+  text-align: left;
+  font-family: "Ubuntu Condensed";
+  margin: 40px;
+}
+
+.para {
+  color: black;
+  line-height: 1.75;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 20px;
+  font-weight: normal;
+}
+
+.dest1 {
+  height: 100%;
+  width: 75%;
+  padding: 15px;
+}
+
+.mcd2, .leh2, .kasol2, .sml2, .mnl2, .auli2, .drj2, .kbr2, .mta2{
+  height: 45%;
+  width: 40%;
+  position: absolute;
+  padding: 15px;
+}
+
+.srg2 {
+  height: 52%;
+  width: 40%;
+  position: absolute;
+  padding: 15px;
+}
+
+.sml2, .drj2 {
+  height: 57%;
+}
+
+.auli2, .mta2 {
+  height: 52%
+}
+
+.kbr2 {
+  height: 38%;
+}
+
+.honeymoonheading {
+  padding: 40px;
+  line-height: 2;
+  font-weight: bolder;
+}
+
+.andaman {
+  height: 100%;
+  width: 100%;
+  padding: 30px;
+}
+
+.munnar {
+  height: 100%;
+  width: 145%;
+  padding: 30px;
+}
+
+.alleppey {
+  height: 100%;
+  width: 105%;
+  padding: 30px;
+}
+
+.sikkim {
+  height:100%;
+  width: 90%;
+  padding: 15px;
+  padding-top: 30px;
+  }
+
+.paragraph {
+    margin: 20px;
+    font-family: "Dancing Script";
+    color: lightblue;
+    line-height: 2.5;
+    font-weight: normal;
+    font-size: 1.15rem;
+}
+
+.head {
+  margin: 20px;
+  font-family: "Ubuntu Condensed";
+  color: white;
+  line-height: 2.5;
+  font-weight: bold;
+}
+
+.parent {
+  display: flex;
+  justify-content: space-around;
+}
+
+.paragraph1 {
+  margin-left: 120px;
+  padding-left: 40px;
+  font-family: "Dancing Script";
+  color: lightblue;
+  line-height: 2.5;
+  font-weight: normal;
+  font-size: 1.15rem;
+}
+
+.head1 {
+  margin-left: 100px;
+  font-family: "Ubuntu Condensed";
+  color: white;
+  line-height: 2.5;
+  font-weight: bold;
+}
+
+#Travelogues {
+    background-color: lightblue;
+}
+
+.Travelogues-text {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.Travelogues-image {
+    width: 17%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.travelers {
+  color: #0d3b4c;
+  font-weight: lighter;
+  font-family: "Playfair Display";
+  text-align: center;
+  padding: 15px;
+  margin: 150px;
+}
+
+.Box1 {
+  width: 440px;
+  padding: 20px;
+  border: 5px solid white;
+  margin: 10;
+  position: relative;
+
+}
+
+.Temple {
+  width: 350px;
+  height: 300px;
+  padding: 15px;
+}
+
+.religiouspara {
+  font-family: "Open Sans Condensed";
+  color: white;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+.Box2 {
+  width: 440px;
+  padding: 20px;
+  border: 5px solid white;
+  margin: 10;
+  position: relative;
+  display: inline-block;
+  left: 200px;
+  bottom: 633px;
+}
+
+.Box3 {
+  width: 440px;
+  padding: 20px;
+  border: 5px solid white;
+  margin: 10;
+  position: relative;
+  display: inline-block;
+  bottom: 577px;
+  left: 300px;
+}
+
+#cta {
+  background-color: lightblue;
+}
+
+.bigheading {
+  padding: 60px;
+  font-family: "Bebas Neue";
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+.colouring {
+  font-family: "Ubuntu Condensed";
+  color: black;
+  font-weight: lighter;
+}
